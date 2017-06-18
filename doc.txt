@@ -1,0 +1,3 @@
+migrations:
+
+php yii migrate/up --migrationPath=modules/music/migrations
